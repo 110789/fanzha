@@ -1,71 +1,71 @@
-0.0.0.0 gjfzpt.cn
-0.0.0.0 fzapp-test-tyy.gjfzpt.cn
-0.0.0.0 oss.gjfzpt.cn
-0.0.0.0 fzapp.gjfzpt.cn
-0.0.0.0 fzapph5.gjfzpt.cn
-0.0.0.0 miit.gov.cn
-0.0.0.0 mps.gov.cn
-0.0.0.0 beian.miit.gov.cn
-0.0.0.0 ywtbapi.mps.gov.cn
-0.0.0.0 beian.mps.gov.cn
-0.0.0.0 mail.mps.gov.cn
-0.0.0.0 ywtb.mps.gov.cn
-0.0.0.0 ngo.mps.gov.cn
-0.0.0.0 m.mps.gov.cn
-0.0.0.0 dbjb.mps.gov.cn
-0.0.0.0 ispl.mps.gov.cn
-0.0.0.0 ecidewc.mps.gov.cn
-0.0.0.0 cyberpolice.mps.gov.cn
-0.0.0.0 app.mps.gov.cn
-0.0.0.0 zlbj.mps.gov.cn
-0.0.0.0 zwfw.mps.gov.cn
-0.0.0.0 ecidcwc.mps.gov.cn
-0.0.0.0 www.mps.gov.cn
-0.0.0.0 adx.oplus.com
-0.0.0.0 ads.heytap.com
-0.0.0.0 aiengine.oplus.com
-0.0.0.0 analysis.heytap.com
-0.0.0.0 antifraud.oplus.com
-0.0.0.0 api.antifraudcenter.org.cn
-0.0.0.0 cloudcontrol.oneplus.com
-0.0.0.0 cloudcontrol.oppo.com
-0.0.0.0 cloudcontrol.oppomobile.com
-0.0.0.0 collect.heytap.com
-0.0.0.0 crashreport.oplus.com
-0.0.0.0 datacollector.coloros.com
-0.0.0.0 dm.oppo.com
-0.0.0.0 drive.heytap.com
-0.0.0.0 dpm.oneplus.com
-0.0.0.0 dpm.oppo.com
-0.0.0.0 feedback.oplus.com
-0.0.0.0 fraud-detect.coloros.com
-0.0.0.0 fraud-model.oplus.com
-0.0.0.0 frmsapi.antifraudcenter.org.cn
-0.0.0.0 log-upload.coloros.com
-0.0.0.0 logkit.oplus.com
-0.0.0.0 mcs.oppomobile.com
-0.0.0.0 model-upgrade.coloros.com
-0.0.0.0 oms.oppo.com
-0.0.0.0 oms.oppomobile.com
-0.0.0.0 pms.oneplus.com
-0.0.0.0 pms.oppo.com
-0.0.0.0 pms.oppomobile.com
-0.0.0.0 recommendation.coloros.com
-0.0.0.0 riskcontrol.heytap.com
-0.0.0.0 safeanalysis.heytapmobi.com
-0.0.0.0 scam-intel.heytapmobi.com
-0.0.0.0 security-data.heytapdownload.com
-0.0.0.0 smartcapability.heytapmobi.com
-0.0.0.0 statistic.coloros.com
-0.0.0.0 statistic.oplus.com
-0.0.0.0 uc-client-cn.heytapmobi.com
-0.0.0.0 ums-telemetry-cn.heytapmobi.com
-0.0.0.0 obus-cn.dc.heytapmobi.com
-0.0.0.0 report.uc.heytapmobi.com
-0.0.0.0 mdp-appconf-cn.heytapdownload.com
-0.0.0.0 mdP-usertrace-cn.heytapdownload.com
-0.0.0.0 cloudconf-app-cn.heytapmobi.com
-0.0.0.0 sms.ads.heytapmobi.com
-0.0.0.0 smart-sms-cn.heytapimage.com
-0.0.0.0 cloudkit-api-cn.heytapmobi.com
-0.0.0.0 apisnd.heytapmobi.com
+gjfzpt.cn
+fzapp-test-tyy.gjfzpt.cn
+oss.gjfzpt.cn
+fzapp.gjfzpt.cn
+fzapph5.gjfzpt.cn
+miit.gov.cn
+mps.gov.cn
+beian.miit.gov.cn
+ywtbapi.mps.gov.cn
+beian.mps.gov.cn
+mail.mps.gov.cn
+ywtb.mps.gov.cn
+ngo.mps.gov.cn
+m.mps.gov.cn
+dbjb.mps.gov.cn
+ispl.mps.gov.cn
+ecidewc.mps.gov.cn
+cyberpolice.mps.gov.cn
+app.mps.gov.cn
+zlbj.mps.gov.cn
+zwfw.mps.gov.cn
+ecidcwc.mps.gov.cn
+www.mps.gov.cn
+adx.oplus.com
+ads.heytap.com
+aiengine.oplus.com
+analysis.heytap.com
+antifraud.oplus.com
+api.antifraudcenter.org.cn
+cloudcontrol.oneplus.com
+cloudcontrol.oppo.com
+cloudcontrol.oppomobile.com
+collect.heytap.com
+crashreport.oplus.com
+datacollector.coloros.com
+dm.oppo.com
+drive.heytap.com
+dpm.oneplus.com
+dpm.oppo.com
+feedback.oplus.com
+fraud-detect.coloros.com
+fraud-model.oplus.com
+frmsapi.antifraudcenter.org.cn
+log-upload.coloros.com
+logkit.oplus.com
+mcs.oppomobile.com
+model-upgrade.coloros.com
+oms.oppo.com
+oms.oppomobile.com
+pms.oneplus.com
+pms.oppo.com
+pms.oppomobile.com
+recommendation.coloros.com
+riskcontrol.heytap.com
+safeanalysis.heytapmobi.com
+scam-intel.heytapmobi.com
+security-data.heytapdownload.com
+smartcapability.heytapmobi.com
+statistic.coloros.com
+statistic.oplus.com
+uc-client-cn.heytapmobi.com
+ums-telemetry-cn.heytapmobi.com
+obus-cn.dc.heytapmobi.com
+report.uc.heytapmobi.com
+mdp-appconf-cn.heytapdownload.com
+mdP-usertrace-cn.heytapdownload.com
+cloudconf-app-cn.heytapmobi.com
+sms.ads.heytapmobi.com
+smart-sms-cn.heytapimage.com
+cloudkit-api-cn.heytapmobi.com
+apisnd.heytapmobi.com
