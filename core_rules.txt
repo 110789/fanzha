@@ -50,7 +50,6 @@
 0.0.0.0 logkit.oplus.com
 0.0.0.0 m.mps.gov.cn
 0.0.0.0 mail.mps.gov.cn
-0.0.0.0 mcs.oppomobile.com
 0.0.0.0 mdp-appconf-cn.heytapdownload.com
 0.0.0.0 mdp-usertrace-cn.heytapdownload.com
 0.0.0.0 miit.gov.cn
