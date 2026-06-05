@@ -84,3 +84,8 @@
 0.0.0.0 ywtbapi.mps.gov.cn
 0.0.0.0 zlbj.mps.gov.cn
 0.0.0.0 zwfw.mps.gov.cn
+0.0.0.0 log.oppo.com
+0.0.0.0 ck.oppo.com
+0.0.0.0 onetrace.coloros.com
+0.0.0.0 crash.coloros.com
+0.0.0.0 athena.coloros.com
