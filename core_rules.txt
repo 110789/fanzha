@@ -6,7 +6,6 @@
 0.0.0.0 antifraud.oplus.com
 0.0.0.0 api.antifraudcenter.org.cn
 0.0.0.0 api.safe.heytap.com
-0.0.0.0 apisnd.heytapmobi.com
 0.0.0.0 app.mps.gov.cn
 0.0.0.0 appmarket.oppomobile.com
 0.0.0.0 aps.allawnos.com
@@ -60,9 +59,6 @@
 0.0.0.0 oss.gjfzpt.cn
 0.0.0.0 ote.allawnos.com
 0.0.0.0 pds.coloros.com
-0.0.0.0 pms.oneplus.com
-0.0.0.0 pms.oppo.com
-0.0.0.0 pms.oppomobile.com
 0.0.0.0 recommendation.coloros.com
 0.0.0.0 report.uc.heytapmobi.com
 0.0.0.0 riskcontrol.heytap.com
